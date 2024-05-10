@@ -77,3 +77,18 @@ a:active{
     margin-left:35px;
     width:max-content;
 }
+
+#mainPage{
+    margin-left:35px;
+    font-size:25px;
+    background-color:rgb(206, 247, 42);
+    border:1px solid #090f2d;
+    padding:10px;
+    border-radius:5px;
+}
+
+#mainPage:hover{
+    text-decoration: none;
+    background-color: #090f2d;
+    color:white;
+}
