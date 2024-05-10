@@ -78,7 +78,7 @@ a:active{
     width:max-content;
 }
 
-#mainPage{
+#x{
     margin-left:35px;
     font-size:25px;
     background-color:rgb(206, 247, 42);
@@ -87,7 +87,7 @@ a:active{
     border-radius:5px;
 }
 
-#mainPage:hover{
+#x:hover{
     text-decoration: none;
     background-color: #090f2d;
     color:white;
