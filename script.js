@@ -20,3 +20,8 @@ copyBtn.addEventListener("click", () => {
 backBtn.addEventListener("click", () => {
     window.location.href="index.html";
 })
+
+function myFunction() {
+    window.open("https://www.w3schools.com");
+  }
+
