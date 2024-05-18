@@ -11,7 +11,7 @@
 #container{
     height:500px;
     width:500px;
-    background-color:rgb(254, 246, 236);
+    background-color:rgb(255, 251, 224);
     border:1px solid black;
     overflow:hidden;
     overflow-y: scroll;
@@ -58,7 +58,7 @@ body{
     margin-right:15px;
     font-size:20px;
     padding:10px;
-    background-color:rgb(254, 246, 236);
+    background-color:rgb(255, 251, 224);
     border-radius:5px;
     width:200px;
     
@@ -91,7 +91,7 @@ body{
     padding-left:30px;
     padding-right:30px;
     
-    background-color:rgb(254, 246, 236);
+    background-color:rgb(255, 251, 224);
     border-radius:5px;
     margin-left:15px;
     display:flex;
