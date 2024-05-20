@@ -1,6 +1,9 @@
 const copyBtn = document.getElementById("copyBtn")
 const textBox = document.getElementById("textBox")
 const backBtn = document.getElementById("backBtn")
+const vahaduoBtn = document.getElementById("vahaduoBtn")
+const vahaduo2wayBtn = document.getElementById("vahaduo2wayBtn")
+
 
 textBox.textContent = "Copied to cliploard!"
 textBox.style.cssText = "font-size:20px;background-color:white;color:white;display:flex;justify-content:center;align-items:center;text-align:center;"
@@ -19,6 +22,14 @@ copyBtn.addEventListener("click", () => {
 
 backBtn.addEventListener("click", () => {
     window.location.href="index.html";
+})
+
+vahaduoBtn.addEventListener("click", () => {
+    window.open("https://vahaduo.github.io/vahaduo/", '_blank').focus();
+})
+
+vahaduo2wayBtn.addEventListener("click", () => {
+    window.open("https://promotopic.com/calculator/vahd.html", '_blank').focus();
 })
 
 function myFunction() {

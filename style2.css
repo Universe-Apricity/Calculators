@@ -106,3 +106,26 @@ body{
 #backBtn:active{
     background-color:#ffe6ff
 }
+
+#vahaduoBtnContainer{
+    display:flex;
+    flex-direction: column;
+    width:500px;
+    margin-left:15px;
+    gap:10px;
+    
+}
+
+#vahaduo2wayBtn, #vahaduoBtn{
+    background-color: rgb(200, 255, 193);
+    color:black;
+    font-size:30px;
+    border-radius:10px;
+    padding:5px;
+}
+
+#vahaduo2wayBtn:hover, #vahaduoBtn:hover{
+    background-color: black;
+    color:rgb(255, 249, 159);
+    
+}
