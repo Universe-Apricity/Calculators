@@ -92,3 +92,15 @@ a:active{
     background-color: #090f2d;
     color:white;
 }
+
+.calculatorNames{
+    background-color:black;
+    color:white;
+    font-size:35px;
+}
+
+.calculatorContent{
+    background-color: #ffe6ff;
+    color:black;
+    font-size:25px;
+}
