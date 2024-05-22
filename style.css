@@ -96,11 +96,11 @@ a:active{
 .calculatorNames{
     background-color:black;
     color:white;
-    font-size:35px;
+    font-size:20px;
 }
 
 .calculatorContent{
     background-color: #ffe6ff;
     color:black;
-    font-size:25px;
+    font-size:15px;
 }
